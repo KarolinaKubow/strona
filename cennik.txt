@@ -1,0 +1,152 @@
+ <!-- Cennik-->
+   <section class="resume-section" id="cennik">
+    <div class="resume-section-content">
+     <h2 class="mb-5">
+      Cennik
+     </h2>
+     <table class="table table-bordered">
+      <thead>
+       <tr>
+        <th>
+         Usługa
+        </th>
+        <th>
+         Opis
+        </th>
+        <th>
+         Cena
+        </th>
+       </tr>
+      </thead>
+      <tbody>
+       <tr>
+        <td class="merged-row" colspan="3">
+         Terapia EEG-biofeedback
+         <img src="assets/img/mozg.png" alt="mozg" style="width: 30px; height: auto; margin-left: 10px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Terapia EEG-biofeedback
+        </td>
+        <td>
+         Indywidualnie dostosowana sesja terapeutyczna
+         <sup>
+          *
+         </sup>
+        </td>
+        <td>
+         150 zł / godz.
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Diagnoza EEG-biofeedback
+        </td>
+        <td>
+         Kompleksowa diagnoza i analiza wyników i ustalenie terapii
+        </td>
+        <td>
+         300 zł
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Terapia EEG-biofeedback - pakiet 10 spotkań
+        </td>
+        <td>
+         Pakiet indywidualnie dostosowanych 10 sesji terapeutycznych
+        </td>
+        <td>
+         110 zł  x  10 sesji
+        </td>
+       </tr>
+       <tr>
+        <td class="merged-row" colspan="3">
+         Centralne zaburzenia przetwarzania słuchowego
+         <img src="assets/img/ucho.png" alt="ucho" style="width: 30px; height: auto; margin-left: 10px;"/>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Terapia centralnych zaburzeń przetwarzania słuchowego
+        </td>
+        <td>
+         Sesja terapeutyczna w pakiecie 12 spotkań w miesiącu
+        </td>
+        <td>
+         90 zł/sesja terapeutyczna
+         <sup>
+          **
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Rediagnoza centralnych zaburzeń przetwarzania słuchowego
+        </td>
+        <td>
+         Ocena postępów terapii po 24 sesjach terapeutycznych
+        </td>
+        <td>
+         200 zł
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Terapia centralnych zaburzeń przetwarzania słuchowego-wprowadzenie do terapii w domu
+        </td>
+        <td>
+         Zajęcia edukacyjne i praktyczne dla rodziców, którzy będą przeprowadzali terapię w domu
+        </td>
+        <td>
+         430 zł/ 3 spotkania
+         <sup>
+          ***
+         </sup>
+        </td>
+       </tr>
+       <tr>
+        <td>
+         Trening centralnych zaburzeń przetwarzania słuchowego on-line
+        </td>
+        <td>
+         Zestaw ćwiczeń w terapii centralnych zaburzeń przetwarzania słuchowego, ułożonych indywidualnie pod diagnozę.
+        </td>
+        <td>
+         470 zł/ I ETAP
+         <sup>
+          ****
+         </sup>
+         <br/>
+         460 zł/II ETAP
+         <br/>
+         450 zł/III ETAP
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <p class="notes mt-4">
+      <sup>
+       *
+      </sup>
+      Efekt terapeutyczny osczuwalny po min. 10 sesjach terapeutycznych.
+      <br/>
+      <sup>
+       **
+      </sup>
+      Pakiet 12 spotkań w miesiącu płatny z góry, przed przystąpieniem do terapii.
+      <br/>
+      <sup>
+       ***
+      </sup>
+      Po trzech spotkaniach rodzic może przeprowadzać prowadzić terapię z dzieckiem w domu.
+      <br/>
+      <sup>
+       ****
+      </sup>
+      Trening wymagany do przeprowadzenia terapii centralnych zaburzeń przetwarzania słuchowego
+     </p>
+    </div>
+   </section>
+   <hr class="m-0"/>
